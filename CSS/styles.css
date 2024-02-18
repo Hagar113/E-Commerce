@@ -1,0 +1,14 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #ffffff, #d0e7f9);
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-top: 10px;
+}
+.footer2{
+    background-color: #d0e7f9;
+}
